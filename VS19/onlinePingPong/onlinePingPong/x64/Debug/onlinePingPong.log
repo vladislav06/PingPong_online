@@ -1,0 +1,8 @@
+﻿  SDL.cpp
+C:\Users\mrkev\source\repos\onlinePingPong\onlinePingPong\SDL.cpp(157,16): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\mrkev\source\repos\onlinePingPong\onlinePingPong\SDL.cpp(158,16): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\mrkev\source\repos\onlinePingPong\onlinePingPong\SDL.cpp(162,17): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+C:\Users\mrkev\source\repos\onlinePingPong\onlinePingPong\SDL.cpp(163,17): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+  onlinePingPong.cpp
+  Создание кода...
+  onlinePingPong.vcxproj -> C:\Users\mrkev\source\repos\onlinePingPong\x64\Debug\onlinePingPong.exe
