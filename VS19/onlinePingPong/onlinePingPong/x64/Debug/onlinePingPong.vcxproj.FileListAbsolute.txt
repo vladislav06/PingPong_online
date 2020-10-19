@@ -1,0 +1,2 @@
+C:\Users\mrkev\source\repos\PingPong_online\VS19\onlinePingPong\x64\Debug\onlinePingPong.exe.lastcodeanalysissucceeded
+C:\Users\mrkev\source\repos\PingPong_online\VS19\onlinePingPong\onlinePingPong\x64\Debug\NativeCodeAnalysis.read.1.tlog

@@ -1,8 +1,27 @@
-﻿  SDL.cpp
-C:\Users\mrkev\source\repos\onlinePingPong\onlinePingPong\SDL.cpp(157,16): warning C4244: =: преобразование "int" в "float", возможна потеря данных
-C:\Users\mrkev\source\repos\onlinePingPong\onlinePingPong\SDL.cpp(158,16): warning C4244: =: преобразование "int" в "float", возможна потеря данных
-C:\Users\mrkev\source\repos\onlinePingPong\onlinePingPong\SDL.cpp(162,17): warning C4244: =: преобразование "float" в "int", возможна потеря данных
-C:\Users\mrkev\source\repos\onlinePingPong\onlinePingPong\SDL.cpp(163,17): warning C4244: =: преобразование "float" в "int", возможна потеря данных
-  onlinePingPong.cpp
+﻿  onlinePingPong.cpp
+C:\Users\mrkev\source\repos\PingPong_online\VS19\onlinePingPong\onlinePingPong\onlinePingPong.cpp(145,48): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\mrkev\source\repos\PingPong_online\VS19\onlinePingPong\onlinePingPong\onlinePingPong.cpp(145,33): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+  SDL.cpp
+C:\Users\mrkev\source\repos\PingPong_online\VS19\onlinePingPong\onlinePingPong\SDL.cpp(204,17): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\mrkev\source\repos\PingPong_online\VS19\onlinePingPong\onlinePingPong\SDL.cpp(205,17): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\mrkev\source\repos\PingPong_online\VS19\onlinePingPong\onlinePingPong\SDL.cpp(209,17): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+C:\Users\mrkev\source\repos\PingPong_online\VS19\onlinePingPong\onlinePingPong\SDL.cpp(210,17): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+C:\Users\mrkev\source\repos\PingPong_online\VS19\onlinePingPong\onlinePingPong\SDL.cpp(230,16): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\mrkev\source\repos\PingPong_online\VS19\onlinePingPong\onlinePingPong\SDL.cpp(231,16): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\mrkev\source\repos\PingPong_online\VS19\onlinePingPong\onlinePingPong\SDL.cpp(235,17): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+C:\Users\mrkev\source\repos\PingPong_online\VS19\onlinePingPong\onlinePingPong\SDL.cpp(236,17): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+  UDP.cpp
+C:\Users\mrkev\source\repos\PingPong_online\VS19\onlinePingPong\onlinePingPong\UDP.cpp(48,36): warning C4244: return: преобразование "unsigned long" в "unsigned char", возможна потеря данных
+C:\Users\mrkev\source\repos\PingPong_online\VS19\onlinePingPong\onlinePingPong\UDP.cpp(126,18): warning C4305: return: усечение из "SOCKET (__cdecl *)(int,int,int)" в "bool"
+  vector.cpp
+  Компиляция...
   Создание кода...
-  onlinePingPong.vcxproj -> C:\Users\mrkev\source\repos\onlinePingPong\x64\Debug\onlinePingPong.exe
+C:\Users\mrkev\source\repos\PingPong_online\VS19\onlinePingPong\onlinePingPong\UDP.cpp(136): warning C4715: Socket::NonBlock: значение возвращается не при всех путях выполнения
+  onlinePingPong.vcxproj -> C:\Users\mrkev\source\repos\PingPong_online\VS19\onlinePingPong\x64\Debug\onlinePingPong.exe
+C:\Users\mrkev\source\repos\PingPong_online\VS19\onlinePingPong\SDL2\include\SDL_rect.h(102): warning C26812: Тип перечисления "SDL_bool" не входит в область. Старайтесь использовать "enum class" вместо "enum" (Enum.3).
+C:\Users\mrkev\source\repos\PingPong_online\VS19\onlinePingPong\onlinePingPong\onlinePingPong.cpp(9): warning C6262: Функция использует "40420" байт в стеке:  это превышает значение /analyze:stacksize"16384". Попробуйте переместить некоторые данные в кучу.
+C:\Users\mrkev\source\repos\PingPong_online\VS19\onlinePingPong\onlinePingPong\SDL.cpp(10): warning C26495: Переменная "SDL::render" не инициализирована. Всегда инициализируйте переменную-член (type.6).
+C:\Users\mrkev\source\repos\PingPong_online\VS19\onlinePingPong\onlinePingPong\SDL.cpp(93): warning C26495: Переменная "object::arr_" не инициализирована. Всегда инициализируйте переменную-член (type.6).
+C:\Users\mrkev\source\repos\PingPong_online\VS19\onlinePingPong\onlinePingPong\vector.h(7): warning C26495: Переменная "VectMath::vector::x" не инициализирована. Всегда инициализируйте переменную-член (type.6).
+C:\Users\mrkev\source\repos\PingPong_online\VS19\onlinePingPong\onlinePingPong\SDL.cpp(102): warning C26495: Переменная "object::sdl_rect_" не инициализирована. Всегда инициализируйте переменную-член (type.6).
+C:\Users\mrkev\source\repos\PingPong_online\VS19\onlinePingPong\onlinePingPong\SDL.cpp(147): warning C6001: Использование неинициализированной памяти "rect".
